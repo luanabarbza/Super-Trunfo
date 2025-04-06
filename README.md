@@ -1,4 +1,4 @@
-# Super-Trunfo
+\|# Super-Trunfo
 /super-trunfo-c
 │
 ├── README.md                ← Explicação do projeto
